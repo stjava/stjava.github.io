@@ -1,20 +1,43 @@
 
-<html lang="cn">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <title>sT</title>
-    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css">
-    <script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js"></script>
+    <title>Document</title>
+    <script src="http://cdn.bootcss.com/three.js/r83/three.min.js"></script>
 </head>
 
 <body>
-    <input type="text">
 </body>
 <script>
-$(function() {
-    alert('何永乐2货');
-})
+
+var scene, camera, renderer;
+scene = new THREE.Scene();
+camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight);
+camera.position.set(3,4,5);
+camera.lookAt(new THREE.Vector3(0,0,0));
+scene.add(camera);
+
+var geometry = new THREE.BoxGeometry(1,1,1);
+var material = new THREE.MeshNormalMaterial();
+var cube = new THREE.Mesh(geometry, material);
+scene.add(cube);
+
+renderer = new THREE.WebGLRenderer({ alpha: true });
+renderer.setSize(window.innerWidth, window.innerHeight);
+document.body.appendChild(renderer.domElement);
+
+function render() {
+requestAnimationFrame(render);
+
+    cube.rotation.x += 0.01;
+    cube.rotation.y += 0.01;
+
+    renderer.render(scene, camera);
+}
+render();
 </script>
 
 </html>
+
