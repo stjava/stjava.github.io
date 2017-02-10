@@ -7,14 +7,14 @@
 
 ##技能清单
 
-*   ** Java Web：熟练运用 springMVC+Mybatis 进行项目开发 **
+*   ** JavaWeb：熟练运用 SpringMVC+Mybatis 进行项目开发 **
 *   ** 前端：熟练运用jQuery Ajax进行前端项目开发，熟悉使用 VueJS,AngularJS **
 *   ** 数据库：熟悉使用Mysql Oracle **
 *   ** Linux: 熟悉使用常用Linux系统进行JavaWeb及前端开发 **
 
 
 ##自我简介
-> 1 年web开发经验，目前就职于洛阳一家创业公司，熟悉JavaWeb开发，对于新技术保持很强的探索欲,拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
+> 1 年JavaWeb开发经验，目前就职于洛阳一家创业公司，熟悉JavaWeb开发，对于新技术保持很强的探索欲,拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 
 ##项目经历
 
@@ -69,7 +69,8 @@
 
 ##工作经历
 ###### 洛阳边锋互联技术有限公司（2016-3 — 至今）
->  担任公司JavaWeb开发工程师，完成以上项目的部分需求分析、项目管理、开发工作。期间自学了Vue,AngularJS,和NodeJS。
+>  担任公司JavaWeb开发工程师，完成以上项目的部分需求分析、项目管理、开发工作。期间自学了Vue,AngularJS等前端开发框架,和NodeJS后端
+  JavaScriptWeb框架技术及Linux系统下的Web开发,如常用开发软件的安装使用（Elipse SublimeText Mysql Redis Nginx Tomcat等）。
 
 ## 教育经历
 > 河南 新乡职业技术学院 大专
