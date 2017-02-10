@@ -9,7 +9,7 @@
 
 *   JavaWeb：熟练运用 SpringMVC+Mybatis 进行项目开发 
 *   前端：熟练运用jQuery Ajax进行前端项目开发，熟悉使用 VueJS,AngularJS 
-*   数据库：熟悉使用Mysql Oracle 
+*   数据库：熟悉使用Mysql Oracle 进行开发
 *   Linux: 熟练使用常用Linux系统（Ubuntu）进行JavaWeb及前端开发
 
 
@@ -62,6 +62,7 @@
 * 负责后台投票管理，信箱管理相关代码开发
 * 负责前台 投票页面，信箱管理页面JavaScript代码编写，实现了用户前台投票，及后台接收处理及投票选项的CRUD操作
   信箱的前台写信查看，后台回复等操作
+  
 ###### 技术细节：
 *  后台基于铭飞MCMS进行快速开发
 *  前台 使用了jQuery进行兼容性开发（适应IE8）
