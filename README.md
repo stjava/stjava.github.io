@@ -1,5 +1,5 @@
 #史涛
-* 期望职位：JAVA工程师
+* 期望职位：Java开发工程师
 * 1年工作经验
 * 手机/微信： 176 3050 6860  
 * QQ:   157285231 
@@ -7,10 +7,10 @@
 
 ##技能清单
 
-*   ** JavaWeb：熟练运用 SpringMVC+Mybatis 进行项目开发 **
-*   ** 前端：熟练运用jQuery Ajax进行前端项目开发，熟悉使用 VueJS,AngularJS **
-*   ** 数据库：熟悉使用Mysql Oracle **
-*   ** Linux: 熟悉使用常用Linux系统进行JavaWeb及前端开发 **
+*   JavaWeb：熟练运用 SpringMVC+Mybatis 进行项目开发 
+*   前端：熟练运用jQuery Ajax进行前端项目开发，熟悉使用 VueJS,AngularJS 
+*   数据库：熟悉使用Mysql Oracle 
+*   Linux: 熟练使用常用Linux系统（Ubuntu）进行JavaWeb及前端开发
 
 
 ##自我简介
@@ -60,16 +60,16 @@
 ###### 项目职责：
 * 负责项目的部分需求分析、相关文档编写
 * 负责后台投票管理，信箱管理相关代码开发
-* 负责前台 投票页面，信箱管理页面JavaScript代码编写
-
+* 负责前台 投票页面，信箱管理页面JavaScript代码编写，实现了用户前台投票，及后台接收处理及投票选项的CRUD操作
+  信箱的前台写信查看，后台回复等操作
 ###### 技术细节：
-*  后台基于铭飞MCMS进行开发
-*  前台 使用了jQuery进行兼容性开发（适应IE8版本）
+*  后台基于铭飞MCMS进行快速开发
+*  前台 使用了jQuery进行兼容性开发（适应IE8）
 
 
 ##工作经历
 ###### 洛阳边锋互联技术有限公司（2016-3 — 至今）
->  担任公司JavaWeb开发工程师，完成以上项目的部分需求分析、项目管理、开发工作。期间自学了Vue,AngularJS等前端开发框架,和NodeJS后端
+>  担任公司JavaWeb开发工程师，完成以上项目的部分需求分析、项目管理、开发工作。期间自学了VueJS,AngularJS等前端开发框架,和NodeJS后端
   JavaScriptWeb框架技术及Linux系统下的Web开发,如常用开发软件的安装使用（Elipse SublimeText Mysql Redis Nginx Tomcat等）。
 
 ## 教育经历
