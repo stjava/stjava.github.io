@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "hello myblog is start!"
+title:  "今天  我的博客正式开通了!"
 date:   2017.3.3 9:48:00
-categories: Jekyll Update
-tags: Jekyll Update
+categories:博客 开通
+tags:博客 开通
 ---
-# he yong le  da sha bi
-## ni shuo dui bu dui
-
-
+## 2017.3.7号
+ 折腾了半天，总算把这个博客开通了
