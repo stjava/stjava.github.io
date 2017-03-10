@@ -6,5 +6,5 @@ categories: Jekyll Update
 tags: Jekyll Update
 ---
 <script>
-location.href='stjava.oschina.io'
+location.href='http://stjava.oschina.io'
 </script
